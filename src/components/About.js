@@ -1,8 +1,11 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+import phpIcon from "@iconify/icons-logos/php";
+import javascriptIcon from "@iconify/icons-logos/javascript";
+import angulartIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import microsoftSqlServerIcon from "@iconify/icons-logos/microsoft";
+import jqueryIcon from "@iconify/icons-logos/jquery";
 
 class About extends Component {
   render() {
