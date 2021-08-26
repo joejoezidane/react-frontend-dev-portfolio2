@@ -30,17 +30,29 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
+                   <Icon
+                    icon={angulartIcon}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
+                  />
                   <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    icon={javascriptIcon}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                     icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    icon={jqueryIcon}
+                    style={{ fontSize: "150%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={phpIcon}
+                    style={{ fontSize: "150%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={microsoftSqlServerIcon}
+                    style={{ fontSize: "150%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
               </div>
