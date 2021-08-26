@@ -1,0 +1,358 @@
+{
+  "basic_info": {
+    "description_header": "Welcome to my portfolio",
+    "description": "I'm Joel Hernandez. I have 12 years working in the web development area, with experience in different industries such as Call Center, Airlines, IT Consulting, Tourism, and Financing/Retail services. Recently I worked the last year and a half in a company called Epay North America, as Senior Web Developer. I am a person who is motivated and enthusiastic who likes new challenges and adopts an excellent approach to achieve success in all the projects. I like to work on complex projects that have potential for learning and challenge.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Recent Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Ebo Portal",
+      "startDate": "Jul 2021 - Aug 2021",
+      "description": "Is a web portal that offers Epay's distributors the chance to manage financial operations. I was in charge of the creation of the following modules using Angular 10: Automation Rules: CRUD for rules that will be keys for searching in an external database. Automation Staging: Extended CRUD with Master and Children records, that will provide the opportunity to submit multiple payments for approval, that were found using the rules created in the previous module (Automation Rules).",
+      "images": [
+        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/ebo.png"
+      ],
+      "url": "https://backoffice.epayworldwide.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+    {
+      "title": "Sodexo",
+      "startDate": "Oct 2020 – Aug 2021",
+      "description": "Epay provides Sodexo a rewards program in which Sodexo managers may order gift cards for their employees through a website. Implementation of multiple requirements for the Sodexo application. Using technologies like AngularJS, Javascript, HTML, JSON, SQL Server.",
+      "images": [
+        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/sodexo.png"
+      ],
+      "url": "https://sodexo.epayworldwide.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+    {
+      "title": "Webpos",
+      "startDate": "Jul 2020 – Aug 2021",
+      "description": "Implementation of multiple requirements for the Webpos application. Using technologies like AngularJS, Javascript, HTML, JSON, SQL Server.",
+      "images": [
+        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/webpos.png"
+      ],
+      "url": "https://epaywebpos.epayworldwide.com/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+    {
+      "title": "Unit Testing Automation with Selenium and Test Manager 2015 ",
+      "startDate": "Sep 2020 – Dec 2020",
+      "description": "Unit testing Automation for applications such as Webpos and Sodexo. This was an Internal Application, not exposed to public. The image is a reference, not an actual capture of the working application.",
+      "images": [
+        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/selenium.png"
+      ],
+      "url": "https://epaywebpos.epayworldwide.com/",
+      "technologies": [
+        {
+          "class": "devicon-windows8-original",
+          "name": "Microsoft Test Manager"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javascript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+        ,
+        {
+          "class": "devicon-firefox-plain",
+          "name": "Firefox"
+        }
+        ,
+        {
+          "class": "devicon-chrome-plain",
+          "name": "Chrome"
+        }
+      ]
+    }
+    ,
+    {
+      "title": "Signup Portal",
+      "startDate": "Mar 2020 – Jul 2020",
+      "description": "Implementation of multiple requirements for the Signup Portal application in Australia.",
+      "images": [
+        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/signup.png"
+      ],
+      "url": "https://epaywebpos.epayworldwide.com/",
+      "technologies": [
+        {
+          "class": "devicon-angular-plain",
+          "name": "Angular2"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javascript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+        ,
+        {
+          "class": "devicon-windows8-original",
+          "name": "SQL Server"
+        }
+      ]
+    },
+    {
+      "title": "Paradise Hub",
+      "startDate": "Dec 2019 - Mar 2020",
+      "description": "Web Manager for Internal and External Applications. User Control. Authentication. Categories, Groups and Applications controls.",
+      "images": [
+        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/paradise/hub.png"
+      ],
+      "url": "https://hub.paradisesolutions.com/",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javascript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Epay North America, a Division of Euronet Worldwide",
+      "title": "Senior Web Developer",
+      "years": "March 2020 - August 2021",
+      "mainTech": [
+        "Angular 2/9/10"
+      ],
+      "technologies": [
+        "Angular 2/9/10",
+        "Node.js",
+        "C#",
+        "SQL Server",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Kendo UI",
+        "Bootstrap",
+        "Selenium",
+        "ActiveBatch",
+        "Git"
+      ]
+    },
+    {
+      "company": "Paradise Solutions El Salvador",
+      "title": "Web Developer",
+      "years": "April 2018- March 2020",
+      "mainTech": [
+        "PHP, Mysql"
+      ],
+      "technologies": [
+        "PHP",
+        "Mysql",
+        "jQuery",
+        "JavaScript",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Adobe Photoshop",
+        "Adobe Dreamweaver"
+      ]
+    },
+    {
+      "company": "Advanced IT Consulting Services Corp ",
+      "title": "IT Consultant",
+      "years": "May 2017 – February 2018",
+      "mainTech": [
+        "Microsoft Office, Azure, C#, Xamarin, SQL Server"
+      ],
+      "technologies": [
+        "Microsoft Office",
+        "Azure",
+        "Xamarin",
+        "Android",
+        "C#",
+        "Javascript",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "SQL Server"
+      ]
+    },
+    {
+      "company": "Veca Airlines",
+      "title": "Project Analyst",
+      "years": "July 2014 – January 2017",
+      "mainTech": [
+        "Project Management"
+      ],
+      "technologies": [
+        "Project Management",
+        "Booking Engine Administration"
+      ]
+    },
+    {
+      "company": "Veca Airlines",
+      "title": "System  Analyst",
+      "years": "October 2013 – July 2014",
+      "mainTech": [
+        "PHP, Mysql, SQL Server"
+      ],
+      "technologies": [
+        "PHP",
+        "Mysql",
+        "SQL Server",
+        "Windows Server",
+        "Linux",
+        "FTP",
+        "Apache",
+        "IIS",
+        "Project Management",
+        "Booking Engine Administration"
+      ]
+    },
+    {
+      "company": "Transactel El Salvador/Telus International El Salvador",
+      "title": "Web Developer",
+      "years": "April 2009– September 2013",
+      "mainTech": [
+        "PHP, Mysql, Javascript, jQuery"
+      ],
+      "technologies": [
+        "PHP",
+        "Mysql",
+        "Javascript",
+        "jQuery",
+        "Apache",
+        "Linux",
+        "Drupal",
+        "CSS3",
+        "HTML5"
+      ]
+    },
+    {
+      "company": "RT+ Arquitectos",
+      "title": "Webmaster",
+      "years": "November 2007 – Abril 2009",
+      "mainTech": [
+        "PHP, HTML, Javascript"
+      ],
+      "technologies": [
+        "PHP",
+        "HTML",
+        "Javascript",
+        "Apache",
+        "Adobe Photoshop"
+      ]
+    }
+  ]
+}
