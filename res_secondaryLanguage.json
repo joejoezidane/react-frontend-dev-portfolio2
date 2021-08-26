@@ -15,7 +15,7 @@
       "startDate": "Jul 2021 - Aug 2021",
       "description": "Es un portal web que ofrece a los distribuidores de Epay la posibilidad de gestionar operaciones financieras. Estuve a cargo de la creación de los siguientes módulos utilizando Angular 10: Reglas de Automatización: CRUD para reglas que serán claves para la búsqueda en una base de datos externa. Automatización Staging : CRUD extendido con registros maestros y secundarios, que brindarán la oportunidad de enviar múltiples pagos para su aprobación, que se encontraron utilizando las reglas creadas en el módulo anterior (Reglas de automatización). ",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/ebo.png"
+        "images/portfolio/epay/ebo.png"
       ],
       "url": "https://backoffice.epayworldwide.com",
       "technologies": [
@@ -50,7 +50,7 @@
       "startDate": "Oct 2020 – Aug 2021",
       "description": "Epay proporciona a Sodexo un programa de recompensas en el que los gerentes de Sodexo pueden solicitar tarjetas de regalo para sus empleados a través de un sitio web. Implementación de múltiples requisitos para la aplicación de Sodexo. Usando tecnologías como AngularJS, Javascript, HTML, JSON, SQL Server.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/sodexo.png"
+        "images/portfolio/epay/sodexo.png"
       ],
       "url": "https://sodexo.epayworldwide.com",
       "technologies": [
@@ -85,7 +85,7 @@
       "startDate": "Jul 2020 – Aug 2021",
       "description": "Implementación de múltiples requisitos para la aplicación Webpos. Utilizando tecnologías como AngularJS, Javascript, HTML, JSON, SQL Server.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/webpos.png"
+        "images/portfolio/epay/webpos.png"
       ],
       "url": "https://epaywebpos.epayworldwide.com/",
       "technologies": [
@@ -120,7 +120,7 @@
       "startDate": "Sep 2020 – Dec 2020",
       "description": "Automatización de pruebas unitarias para aplicaciones como Webpos y Sodexo. Esta fue una aplicación interna, no expuesta al público. La imagen es una referencia, no una captura real de la aplicación en funcionamiento.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/selenium.png"
+        "images/portfolio/epay/selenium.png"
       ],
       "url": "https://epaywebpos.epayworldwide.com/",
       "technologies": [
@@ -162,7 +162,7 @@
       "startDate": "Mar 2020 – Jul 2020",
       "description": "Implementación de múltiples requisitos para la aplicación Signup Portal en Australia.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/signup.png"
+        "images/portfolio/epay/signup.png"
       ],
       "url": "https://epaywebpos.epayworldwide.com/",
       "technologies": [
@@ -198,7 +198,7 @@
       "startDate": "Dec 2019 - Mar 2020",
       "description": "Web Manager para Aplicaciones Internas y Externas. Control de Usuario. Autenticación. Categorías, Grupos y Controles de Aplicaciones.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/paradise/hub.png"
+        "images/portfolio/paradise/hub.png"
       ],
       "url": "https://hub.paradisesolutions.com/",
       "technologies": [

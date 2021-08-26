@@ -15,7 +15,7 @@
       "startDate": "Jul 2021 - Aug 2021",
       "description": "Is a web portal that offers Epay's distributors the chance to manage financial operations. I was in charge of the creation of the following modules using Angular 10: Automation Rules: CRUD for rules that will be keys for searching in an external database. Automation Staging: Extended CRUD with Master and Children records, that will provide the opportunity to submit multiple payments for approval, that were found using the rules created in the previous module (Automation Rules).",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/ebo.png"
+        "images/portfolio/epay/ebo.png"
       ],
       "url": "https://backoffice.epayworldwide.com",
       "technologies": [
@@ -50,7 +50,7 @@
       "startDate": "Oct 2020 – Aug 2021",
       "description": "Epay provides Sodexo a rewards program in which Sodexo managers may order gift cards for their employees through a website. Implementation of multiple requirements for the Sodexo application. Using technologies like AngularJS, Javascript, HTML, JSON, SQL Server.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/sodexo.png"
+        "images/portfolio/epay/sodexo.png"
       ],
       "url": "https://sodexo.epayworldwide.com",
       "technologies": [
@@ -85,7 +85,7 @@
       "startDate": "Jul 2020 – Aug 2021",
       "description": "Implementation of multiple requirements for the Webpos application. Using technologies like AngularJS, Javascript, HTML, JSON, SQL Server.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/webpos.png"
+        "images/portfolio/epay/webpos.png"
       ],
       "url": "https://epaywebpos.epayworldwide.com/",
       "technologies": [
@@ -120,7 +120,7 @@
       "startDate": "Sep 2020 – Dec 2020",
       "description": "Unit testing Automation for applications such as Webpos and Sodexo. This was an Internal Application, not exposed to public. The image is a reference, not an actual capture of the working application.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/selenium.png"
+        "images/portfolio/epay/selenium.png"
       ],
       "url": "https://epaywebpos.epayworldwide.com/",
       "technologies": [
@@ -162,7 +162,7 @@
       "startDate": "Mar 2020 – Jul 2020",
       "description": "Implementation of multiple requirements for the Signup Portal application in Australia.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/epay/signup.png"
+        "images/portfolio/epay/signup.png"
       ],
       "url": "https://epaywebpos.epayworldwide.com/",
       "technologies": [
@@ -198,7 +198,7 @@
       "startDate": "Dec 2019 - Mar 2020",
       "description": "Web Manager for Internal and External Applications. User Control. Authentication. Categories, Groups and Applications controls.",
       "images": [
-        "http://localhost:3000/react-frontend-dev-portfolio/images/portfolio/paradise/hub.png"
+        "images/portfolio/paradise/hub.png"
       ],
       "url": "https://hub.paradisesolutions.com/",
       "technologies": [
