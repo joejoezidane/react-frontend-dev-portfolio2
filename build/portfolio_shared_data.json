@@ -1,0 +1,124 @@
+{
+    "basic_info": {
+      "name": "Joel Hernandez",
+      "titles": [ "Full Stack Developer","Front-end Developer", "Backend Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/joelalbertohernandez/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/joejoezidane/",
+          "class": "fab fa-facebook"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "jquery",
+          "class": "devicon-jquery-plain",
+          "level": "70"
+        },
+       
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
+          "level": "75"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "60"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "SQL Server",
+          "class": "devicon-microsoftsqlserver-plain",
+          "level": "75"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "75"
+        },
+        {
+          "name": "Apache",
+          "class": "devicon-apache-plain",
+          "level": "75"
+        },
+        {
+          "name": "Chrome",
+          "class": "devicon-chrome-plain",
+          "level": "75"
+        },
+        {
+          "name": "Firefox",
+          "class": "devicon-firefox-plain",
+          "level": "75"
+        },
+        {
+          "name": "Windows",
+          "class": "devicon-windows8-original",
+          "level": "75"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "75"
+        }
+      ]
+    }
+  }
