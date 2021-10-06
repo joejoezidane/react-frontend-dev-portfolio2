@@ -227,6 +227,22 @@
   ],
   "experience": [
     {
+        "company": "I-Strategies",
+        "title": "Programming Analyst",
+        "years": "September 2021 - Now",
+        "mainTech": [
+          "ASP, Oracle"
+        ],
+        "technologies": [
+          "ASP",
+          "Oracle",
+          "Telerik",
+          "VB.net",
+          "HTML4",
+          "CSS3"
+        ]
+      },
+    {
       "company": "Epay North America, a Division of Euronet Worldwide",
       "title": "Senior Web Developer",
       "years": "March 2020 - August 2021",
