@@ -227,9 +227,25 @@
   ],
   "experience": [
     {
+        "company": "I-Strategies",
+        "title": "Analyst",
+        "years": "Septiembre 2021 - Now",
+        "mainTech": [
+          "ASP, Oracle"
+        ],
+        "technologies": [
+          "ASP",
+          "Oracle",
+          "Telerik",
+          "VB.net",
+          "HTML4",
+          "CSS3"
+        ]
+      },
+    {
       "company": "Epay North America, a Division of Euronet Worldwide",
       "title": "Senior Web Developer",
-      "years": "March 2020 - August 2021",
+      "years": "Marzo 2020 - Agosto 2021",
       "mainTech": [
         "Angular 2/9/10"
       ],
@@ -252,7 +268,7 @@
     {
       "company": "Paradise Solutions El Salvador",
       "title": "Web Developer",
-      "years": "April 2018- March 2020",
+      "years": "Abril 2018 - Marzo 2020",
       "mainTech": [
         "PHP, Mysql"
       ],
@@ -271,7 +287,7 @@
     {
       "company": "Advanced IT Consulting Services Corp ",
       "title": "IT Consultant",
-      "years": "May 2017 – February 2018",
+      "years": "Mayo 2017 – Febrero 2018",
       "mainTech": [
         "Microsoft Office, Azure, C#, Xamarin, SQL Server"
       ],
@@ -291,7 +307,7 @@
     {
       "company": "Veca Airlines",
       "title": "Project Analyst",
-      "years": "July 2014 – January 2017",
+      "years": "Julio 2014 – Enero 2017",
       "mainTech": [
         "Project Management"
       ],
@@ -303,7 +319,7 @@
     {
       "company": "Veca Airlines",
       "title": "System  Analyst",
-      "years": "October 2013 – July 2014",
+      "years": "Octubre 2013 – Julio 2014",
       "mainTech": [
         "PHP, Mysql, SQL Server"
       ],
@@ -323,7 +339,7 @@
     {
       "company": "Transactel El Salvador/Telus International El Salvador",
       "title": "Web Developer",
-      "years": "April 2009– September 2013",
+      "years": "Abril 2009– Septiembre 2013",
       "mainTech": [
         "PHP, Mysql, Javascript, jQuery"
       ],
@@ -342,7 +358,7 @@
     {
       "company": "RT+ Arquitectos",
       "title": "Webmaster",
-      "years": "November 2007 – Abril 2009",
+      "years": "Noviembre 2007 – Abril 2009",
       "mainTech": [
         "PHP, HTML, Javascript"
       ],
