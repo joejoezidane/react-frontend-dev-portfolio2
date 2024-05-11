@@ -227,6 +227,26 @@
   ],
   "experience": [
     {
+        "company": "The Office Gurus",
+        "title": "Tier 2 Developer",
+        "years": "August 2022 - Now",
+        "mainTech": [
+          "ASP .net, .net Core, SQL Server, Azure Devops"
+        ],
+        "technologies": [
+          "ASP .net",
+          ".net Core",
+          "SQL Server",
+          "VB.net",
+          "Azure Devops",
+          "Git",
+          "TFS",
+          "Visual Studio",
+          "Visual Studio Code",
+          "React"
+        ]
+      },
+    {
         "company": "I-Strategies",
         "title": "Programming Analyst",
         "years": "September 2021 - July 2022",
