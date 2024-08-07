@@ -10,9 +10,290 @@
     }
   },
   "projects": [
+    "projects": [
     {
+      "title": "Employee Portal",
+      "startDate": "Sep 2023 - Jul 2024",
+      "description": "Se trata de un portal web donde los usuarios podrán tener acceso a sus correspondientes nóminas, actividades de la empresa, solicitud de documentos oficiales, horarios, etc.",
+      "images": [
+        "images/portfolio/tog/employeeportal.png"
+      ],
+      "url":"https://portal.mytog.solutions/dashboard.aspx",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Quick Note",
+      "startDate": "Sep 2023 - Jul 2024",
+      "description": "Se trata de una aplicación interna en la que los usuarios pueden visualizar plantillas que pueden utilizar para sus actividades de atención al cliente y, en base a ellas, pueden rellenar determinada información en forma de notas para sus propias actividades diarias. Contiene un módulo administrativo en el que determinados usuarios pueden consultar los permisos, el uso de la herramienta, etc.",
+      "images": [
+        "images/portfolio/tog/quicknote.png"
+      ],
+      "url":"https://quicknotetool.mytog.solutions/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".Net Core"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Suites",
+      "startDate": "Oct 2023 - Jul 2024",
+      "description": "Se trata de hub centralizado de aplicaciones en el que, dependiendo del rol de los empleados, determinadas aplicaciones estarán disponibles para los usuarios. La complejidad de esta aplicación radica en la sensibilidad de los datos utilizados, ya que aquí es donde los usuarios pueden tener acceso a: herramientas de contratación, herramientas de reclutamiento, acceso a información personal de los empleados, informes, etc.",
+      "images": [
+        "images/portfolio/tog/suites.png"
+      ],
+      "url":"https://suites.mytog.solutions/Default.aspx",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".Net Core"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Welcome Survey",
+      "startDate": "Sep 2023 - Jul 2024",
+      "description": "Se trata de un formulario web donde los usuarios luego de ser contratados, estarán recibiendo ciertas encuestas en tiempos específicos, con el fin de conocer sus opiniones y sentimientos sobre los primeros días en la empresa.",
+      "images": [
+        "images/portfolio/tog/welcomesurvey.png"
+      ],
+      "url": "https://togwelcomesurvey.mytog.solutions/survey.aspx",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Connect",
+      "startDate": "Ago 2022 - Sep 2023",
+      "description": "Connect es el portal web principal de la empresa. Ofrece diferentes módulos para el usuario, como formularios de control de calidad, planificación, auditorías, capacitación, reconocimiento, lecturas y ayudas laborales para empleados, etc. Trabajé en ajustes a módulos existentes y en la creación de nuevos módulos, como el módulo de KPI y el módulo de RR. HH. La mayoría de los cambios se realizan en el backend, utilizando SQL Server.",
+      "images": [
+        "images/portfolio/tog/connect.png"
+      ],
+      "url": "https://connect.mytog.solutions/",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".Net Core"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Orion",
+      "startDate": "Ago 2022 - Sep 2023",
+      "description": "Orion es el sistema de tickets de la empresa para múltiples departamentos.",
+      "images": [
+        "images/portfolio/tog/orion.png"
+      ],
+      "url": "https://orion.mytog.solutions/Login",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Babal",
+      "startDate": "Jun 2022 - Jul 2022",
+      "description": "Babal (Business are Business after Clicking) es un portal web que permite conexiones comerciales entre Empresas",
+      "images": [
+        "images/portfolio/i-strategies/babal.png"
+      ],
+      "url": "https://babal-test.web.app/login",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Google Firebase"
+        }
+      ]
+    },
+	{
+      "title": "Portales web para Equifax",
+      "startDate": "Dic 2021 - May 2022",
+      "description": "Mejoras para 2 portales web de Equifax El Salvador. Equifax es una de las agencias de crédito más grandes del país.",
+      "images": [
+        "images/portfolio/i-strategies/equifax.png"
+      ],
+      "url": "https://reportes.equifax.com/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-spring-plain",
+          "name": "Java Spring"
+        },
+        {
+          "class": "devicon-oracle-plain",
+          "name": "Oracle"
+        }
+      ]
+    },
+	{
       "title": "Ebo Portal",
-      "startDate": "Jul 2021 - Aug 2021",
+      "startDate": "Jul 2021 - Ago 2021",
       "description": "Es un portal web que ofrece a los distribuidores de Epay la posibilidad de gestionar operaciones financieras. Estuve a cargo de la creación de los siguientes módulos utilizando Angular 10: Reglas de Automatización: CRUD para reglas que serán claves para la búsqueda en una base de datos externa. Automatización Staging : CRUD extendido con registros maestros y secundarios, que brindarán la oportunidad de enviar múltiples pagos para su aprobación, que se encontraron utilizando las reglas creadas en el módulo anterior (Reglas de automatización). ",
       "images": [
         "images/portfolio/epay/ebo.png"
@@ -47,7 +328,7 @@
     },
     {
       "title": "Sodexo",
-      "startDate": "Oct 2020 – Aug 2021",
+      "startDate": "Oct 2020 – Ago 2021",
       "description": "Epay proporciona a Sodexo un programa de recompensas en el que los gerentes de Sodexo pueden solicitar tarjetas de regalo para sus empleados a través de un sitio web. Implementación de múltiples requisitos para la aplicación de Sodexo. Usando tecnologías como AngularJS, Javascript, HTML, JSON, SQL Server.",
       "images": [
         "images/portfolio/epay/sodexo.png"
@@ -82,7 +363,7 @@
     },
     {
       "title": "Webpos",
-      "startDate": "Jul 2020 – Aug 2021",
+      "startDate": "Jul 2020 – Ago 2021",
       "description": "Implementación de múltiples requisitos para la aplicación Webpos. Utilizando tecnologías como AngularJS, Javascript, HTML, JSON, SQL Server.",
       "images": [
         "images/portfolio/epay/webpos.png"
@@ -117,7 +398,7 @@
     },
     {
       "title": "Automatización de pruebas unitarias con Selenium y Test Manager 2015",
-      "startDate": "Sep 2020 – Dec 2020",
+      "startDate": "Sep 2020 – Dic 2020",
       "description": "Automatización de pruebas unitarias para aplicaciones como Webpos y Sodexo. Esta fue una aplicación interna, no expuesta al público. La imagen es una referencia, no una captura real de la aplicación en funcionamiento.",
       "images": [
         "images/portfolio/epay/selenium.png"
@@ -195,7 +476,7 @@
     },
     {
       "title": "Paradise Hub",
-      "startDate": "Dec 2019 - Mar 2020",
+      "startDate": "Dic 2019 - Mar 2020",
       "description": "Web Manager para Aplicaciones Internas y Externas. Control de Usuario. Autenticación. Categorías, Grupos y Controles de Aplicaciones.",
       "images": [
         "images/portfolio/paradise/hub.png"
