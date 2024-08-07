@@ -11,6 +11,286 @@
   },
   "projects": [
     {
+      "title": "Employee Portal",
+      "startDate": "Sep 2023 - Jul 2024",
+      "description": "This is a web portal where the users can have access to their corresponding payslip, company activities, request for official documents, schedules, etc.",
+      "images": [
+        "images/portfolio/tog/employeeportal.png"
+      ],
+      "url":"https://portal.mytog.solutions/dashboard.aspx",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Quick Note",
+      "startDate": "Sep 2023 - Jul 2024",
+      "description": "This is an internal application where the users are able to see templates that can be used for their customer service activities, and based on those templates, they can fill certain information in form of notes, for their own daily actitivies. It contains an administrative module where certain users can check the permissions, usage of the tool, etc.",
+      "images": [
+        "images/portfolio/tog/quicknote.png"
+      ],
+      "url":"https://quicknotetool.mytog.solutions/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".Net Core"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Suites",
+      "startDate": "Oct 2023 - Jul 2024",
+      "description": "This is an internal hub of applications where depending on the role of the employees, certain applications will be available for users. The complexity of this application regards in the sensitivity of the used data, because here is the place where the users can have access to: hiring tools, recruiting tools, accesing to personal information of the employees, reporting, etc.",
+      "images": [
+        "images/portfolio/tog/suites.png"
+      ],
+      "url":"https://suites.mytog.solutions/Default.aspx",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".Net Core"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Welcome Survey",
+      "startDate": "Sep 2023 - Jul 2024",
+      "description": "This is a webform where the users after being hired, will be receiving certain surveys in specific timeframes, in order to know their opinions and feelings about the first days at the company.",
+      "images": [
+        "images/portfolio/tog/welcomesurvey.png"
+      ],
+      "url": "https://togwelcomesurvey.mytog.solutions/survey.aspx",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Connect",
+      "startDate": "Aug 2022 - Sep 2023",
+      "description": "Connect is the main web portal of the Company. It provides different modules for the user such as QA Forms, Planning, Audits, Training, Recognition, Readings and Job Aids for Employees, etc. I worked in adjustments on existing modules and creating new modules such as KPI Module and HR Module. Most of the changes are in the backend side, using SQL Server.",
+      "images": [
+        "images/portfolio/tog/connect.png"
+      ],
+      "url": "https://connect.mytog.solutions/",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".Net Core"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Orion",
+      "startDate": "Aug 2022 - Sep 2023",
+      "description": "Orion is the company Ticket System for multiple departments.",
+      "images": [
+        "images/portfolio/tog/orion.png"
+      ],
+      "url": "https://orion.mytog.solutions/Login",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "ASP .Net"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
+        }
+      ]
+    },
+	{
+      "title": "Babal",
+      "startDate": "Jun 2022 - Jul 2022",
+      "description": "Babal (Business are Business after Clicking) is a web portal that allows business connections between Companies",
+      "images": [
+        "images/portfolio/i-strategies/babal.png"
+      ],
+      "url": "https://babal-test.web.app/login",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Google Firebase"
+        }
+      ]
+    },
+	{
+      "title": "Web Portals for Equifax",
+      "startDate": "Dec 2021 - May 2022",
+      "description": "Improvements for 2 web portals for Equifax El Salvador. Equifax is one of the biggest credit bureaus in the country.",
+      "images": [
+        "images/portfolio/i-strategies/equifax.png"
+      ],
+      "url": "https://reportes.equifax.com/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-spring-plain",
+          "name": "Java Spring"
+        },
+        {
+          "class": "devicon-oracle-plain",
+          "name": "Oracle"
+        }
+      ]
+    },
+	{
       "title": "Ebo Portal",
       "startDate": "Jul 2021 - Aug 2021",
       "description": "Is a web portal that offers Epay's distributors the chance to manage financial operations. I was in charge of the creation of the following modules using Angular 10: Automation Rules: CRUD for rules that will be keys for searching in an external database. Automation Staging: Extended CRUD with Master and Children records, that will provide the opportunity to submit multiple payments for approval, that were found using the rules created in the previous module (Automation Rules).",
