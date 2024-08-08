@@ -38,6 +38,11 @@
           "class": "devicon-react-plain",
           "level": "80"
         },
+		{
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
@@ -49,7 +54,7 @@
           "level": "70"
         },
         {
-          "name": "jquery",
+          "name": "jQuery",
           "class": "devicon-jquery-plain",
           "level": "70"
         },
@@ -69,9 +74,29 @@
           "class": "devicon-android-plain",
           "level": "75"
         },
+		{
+          "name": "Xamarin",
+          "class": "devicon-xamarin-plain",
+          "level": "75"
+        },
         {
+          "name": "ASP .Net",
+          "class": "devicon-dot-net-plain",
+          "level": "60"
+        },
+		{
+          "name": ".Net Core",
+          "class": "devicon-dotnetcore-plain",
+          "level": "60"
+        },
+		{
           "name": "PHP",
           "class": "devicon-php-plain",
+          "level": "60"
+        },
+		{
+          "name": "Spring",
+          "class": "devicon-spring-plain",
           "level": "60"
         },
         {
@@ -83,6 +108,16 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+		{
+          "name": "Oracle",
+          "class": "devicon-oracle-plain",
+          "level": "75"
+        },
+		{
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain",
+          "level": "75"
         },
         {
           "name": "SQL Server",
@@ -107,6 +142,16 @@
         {
           "name": "Firefox",
           "class": "devicon-firefox-plain",
+          "level": "75"
+        },
+		{
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "75"
+        },
+		{
+          "name": "Azure",
+          "class": "devicon-azure-plain",
           "level": "75"
         },
         {
