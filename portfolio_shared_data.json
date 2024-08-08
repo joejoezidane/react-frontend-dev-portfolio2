@@ -74,11 +74,6 @@
           "class": "devicon-android-plain",
           "level": "75"
         },
-		{
-          "name": "Xamarin",
-          "class": "devicon-xamarin-plain",
-          "level": "75"
-        },
         {
           "name": "ASP .Net",
           "class": "devicon-dot-net-plain",
@@ -149,12 +144,7 @@
           "class": "devicon-docker-plain",
           "level": "75"
         },
-		{
-          "name": "Azure",
-          "class": "devicon-azure-plain",
-          "level": "75"
-        },
-        {
+	{
           "name": "Windows",
           "class": "devicon-windows8-original",
           "level": "75"
